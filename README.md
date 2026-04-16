@@ -1,4 +1,4 @@
-# PYTHON-PROJECT
+# PYTHON-PROJECT- Smart Parking Allocation and Occupancy Analytics System (SPAOAS)
 import time
 from datetime import datetime
 
